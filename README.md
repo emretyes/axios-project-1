@@ -1,4 +1,4 @@
-# react-project1
+# axios-project1
 
 patika eğitimi axios project
 
